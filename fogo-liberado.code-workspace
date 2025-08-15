@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/jogo1-20250815T201031Z-1-001/jogo1/imgs"
+		},
+		{
+			"path": "../../../Downloads/jogo1-20250815T201031Z-1-001/jogo1/js"
+		},
+		{
+			"path": "../../../Downloads/jogo1-20250815T201031Z-1-001/jogo1/sons"
+		},
+		{
+			"path": "../../../Downloads/jogo1-20250815T201031Z-1-001/jogo1/fontes"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fogo-liberado"
+	}
+}
